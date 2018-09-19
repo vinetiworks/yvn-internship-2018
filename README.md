@@ -6,7 +6,7 @@
 This repository contains problems used for the screening process in Vineti internship.
 
 ## Initial Screening
-The problem set in 2018 consists of basic questions checking fundamental knowlendge in Computer Science.
+The problem set in 2018 consists of basic questions checking fundamental knowlendge in Computer Science.\
 _Coding is optional, for some problems algorithm description can be enough._
 
 1. What teams at Vineti are you interested in and why?
