@@ -15,7 +15,7 @@ _Coding is optional, for some problems algorithm description can be enough._
 4. You work in an ice cream shop and step into the back for a few minutes. You return and see a large group of people waiting. How do you serve them?
 5. How would you design a vending machine or a toaster?
 6. How would you test a pen? Describe the cases (example: I'll check the colour).
-7. As a test engineer in Amazon what would you test FIRST (Assuming authentication functionality is already covered)? Describe only one case.
+7. As a test engineer in amazon.com what would you test FIRST (Assuming authentication functionality is already covered)? Describe the most important case.
 8. You have a list of numbers from one to one million and there is __a__ missing number; how would you find the missing number?
 9. Remove duplicates from a list.
 10. Reverse a string.
