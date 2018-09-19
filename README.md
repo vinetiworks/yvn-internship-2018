@@ -3,7 +3,12 @@
 ![alt text](https://vineti.com/content/uploads/2017/06/logo.png "Vineti")
 
 
-This repository contains problems used for the screening process in Vineti internship.
+This repository contains Vineti internship details as well as screening problems, time table and submission rules.
+
+## Interview Stages
+
+- [Initial Screening](#initial-screening)
+- [On-site Interview]()
 
 ## Initial Screening
 The problem set in 2018 consists of basic questions checking fundamental knowledge in Computer Science.\
@@ -20,6 +25,15 @@ _Coding is optional, for some problems algorithm description can be enough._
 9. Given an array of 0's and 1's, move all of the 0's to the beginning of the array and all of the 1's to the end of the array.
 10. Solve the N Queens problem. (Bonus)
 11. Find the longest palindrome in a string. (Bonus)
+
+## Submission Rules
+
+- Create a gist and fill in the answers.
+- Send the link of your gist privately.
+
+### Additional Requirements
+- The answers should be in English.
+
 
 ## Time Table
 
