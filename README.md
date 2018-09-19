@@ -10,16 +10,18 @@ The problem set in 2018 consists of basic questions checking fundamental knowled
 _Coding is optional, for some problems algorithm description can be enough._
 
 1. What teams at Vineti are you interested in and why?
-2. What is a linked list?
-3. What is your favorite programming language and why?
+2. What is your favorite programming language and why?
+3. What is a linked list?
 4. You work in an ice cream shop and step into the back for a few minutes. You return and see a large group of people waiting. How do you serve them?
 5. How would you design a vending machine or a toaster?
-6. You have a list of numbers from one to one million and there is __a__ missing number; how would you find the missing number?
-7. Remove duplicates from a list.
-8. Reverse a string.
-9. Given an array of 0's and 1's, move all of the 0's to the beginning of the array and all of the 1's to the end of the array.
-10. Solve the N Queens problem. (Bonus)
-11. Find the longest palindrome in a string. (Bonus)
+6. How would you test a pen? Describe the cases (example: I'll check the colour).
+7. As a test engineer in Amazon what would you test FIRST (Assuming authentication functionality is already covered)? Describe only one case.
+8. You have a list of numbers from one to one million and there is __a__ missing number; how would you find the missing number?
+9. Remove duplicates from a list.
+10. Reverse a string.
+11. Given an array of 0's and 1's, move all of the 0's to the beginning of the array and all of the 1's to the end of the array.
+12. Solve the N Queens problem. (Bonus)
+13. Find the longest palindrome in a string. (Bonus)
 
 
 # We Are Hiring!
