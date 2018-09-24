@@ -14,7 +14,7 @@ This repository contains Vineti internship details as well as screening problems
 The problem set in 2018 consists of basic questions checking fundamental knowledge in Computer Science.\
 _Coding is optional, for some problems algorithm description can be enough._
 
-1. What teams at Vineti are you interested in and why?
+1. What teams at Vineti are you interested in and why? (Dev or QA)
 2. What is your favorite programming language and why?
 3. What is a linked list?
 4. You work in an ice cream shop and step into the back for a few minutes. You return and see a large group of people waiting. How would you serve them?
