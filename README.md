@@ -46,7 +46,7 @@ On-site interview is conducted with those candidates who have successfully compl
 
 ### Additional Requirements
 - The answers should be in English.
-- The answers should be use Markdown.
+- The answers should use Markdown.
 - The answers should be submitted within 3 days.
 
 ---
