@@ -29,7 +29,7 @@ _Coding is optional, for some problems algorithm description can be enough._
 13. How would you compress a string such that 'AAABCCDDDD' becomes 'A3BC2D4'? Only compress the string if it saves space.
 14. Given an array of 0's and 1's, how would you move all of the 0's to the beginning of the array and all of the 1's to the end of the array?
 15. How would you design a vending machine or a toaster?
-16. You have two lightbulbs at a 100-story building. You want to find the floor at which the bulbs will break when dropped. How would you find the floor using the least number of drops?
+16. You have two lightbulbs at a 100-story building. You want to find the lowest floor at which the bulbs will break when dropped. How would you find the floor using the least number of drops?
 17. If you have a square room with no roof, and you had four pillars you had to plant on the walls so that each pillar touched two walls, how would you do it?
 18. Given 9 balls all of which weigh the same except for one, what is the minimum of weighings necessary to find the ball weighs more (or less)?
 19. How would you solve the N Queens problem? [**Bonus**]
