@@ -1,0 +1,49 @@
+1. Developers: I like to write code and solve programming problems, also creating high qualified code.
+2. c++: I am more prone to OOP languages when the well-written code is rightly structured.
+Also, it gives a lot of capabilities, of course, like inheritance, classes, encapsulation, polymorphism. 
+Hoewer, at the moment I am mainly concentrated on writing javascript codes.
+3. linked list is a collection of ordered nodes: each of the node has a data and a pointer to the next node(link).
+4. would call my friends for a help.
+   arrange waiters into lines as much as ice-cream type exists
+   serve line by line
+5.1 writing on different surfaces
+5.2 measure the drawn line
+5.3 check whether it leaves a mark if you touch the drawn line(how fast it dries)
+5.4 check if it is easily broken
+5.5 take all the standard measurements length, weight
+6. purchasing system
+7. sol 1: calculate the sum from 1 to million using the formula of 
+   the sum for terms S = 1m/2 * (1 + 1m)
+   calculate the sum of the elements
+   remove from S the sum of the elements
+   sol 2: doing XOR operation in binary for each of the element with the next one
+8. 3:20 => the space between hour-hand and minute-hand is 40/60 of hour => 40/60*360/12 = 20*
+9.  n = the given number
+   & = operation AND
+  if n & (n-1)  == 0 => the number is power of 2
+  if n & (n-1)  != 0 => the number is not a power of 2
+10. keep the whole list into a set (as each of the elements of the set are unique => no duplicates)
+11. create array of 256 characters, each indice = 0
+   pass through each character of the array and implement the corresponding indices in the array by 1
+  if the value of the indexes becomes 2 => not all of the characters are unique
+  if not => unique
+12. keep string into the array A
+    keep first = A[0] and last = A[A.lenght - 1]
+   keep temp var
+   copy first into temp, copy last as the value of first, copy temp into the last
+increment first by next character, decrease last by previous
+   pass through the array and do the same until first < last
+14. create a new array A with length 2
+    pass through the array of 0s and 1s and increment the corresponding index of A by 1 (A[0] ++/ A[1] ++)
+   create a new array with A[0] times 0s and A[1] times 1s
+16. dropping from 2,4,6,8..
+   if it breaks from the first n level => drop from n-1
+   if it breaks at n-1 => the lowest level is n
+   if not => the lowest level is n-1
+17. put pillars at the corners
+18. divide into 3 groups and weigh
+     choose the one with different weight
+    out of those 3, weigh the first two with one another
+   if they are different => choose the lightest/heaviest
+   if not => choose the third one
+   ==> approx 3
