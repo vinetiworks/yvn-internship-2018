@@ -55,35 +55,36 @@ On-site interview is conducted with those candidates who have successfully compl
 
 Week  | Type     | Topic
 :----:|----------|--------
-1 | Lecture  | Git, JS basics <span style="color: red">[Frontend]</span>
-1 | Lecture  | QA Basics & SDLC <span style="color: green">[QA]</span>
+1 | Lecture  | Git, JS basics [Frontend]
+1 | Lecture  | Ruby basics [Backend]
+1 | Lecture  | QA Basics & SDLC [QA]
 1 | Practice | __Exercises__
   |          |
-2 | Lecture  | Document Object Model API, ES7 <span style="color: red">[Frontend]</span>
-2 | Lecture  | Data Modeling <span style="color: blue">[Backend]</span>
-2 | Lecture  | Test Case Writing + Bug Reporting<span style="color: green">[QA]</span>
+2 | Lecture  | Document Object Model API, ES7 [Frontend]
+2 | Lecture  | Data Modeling, OOP [Backend]
+2 | Lecture  | Test Case Writing + Bug Reporting [QA]
 2 | Practice | __Exercises__
   |          |
-3 | Lecture  | React: The Basics, JSX <span style="color: red">[Frontend]</span>
-3 | Lecture  | Object Oriented Programming, Data Modeling <span style="color: blue">[Backend]</span>
-3 | Lecture  | Unit Test(moca/chai) & Integration Test <span style="color: green">[QA]</span>
+3 | Lecture  | React: The Basics, JSX [Frontend]
+3 | Lecture  | MVC, rails basics [Backend]
+3 | Lecture  | Unit Test (Jest) & Integration Test [QA/DEV]
 3 | Practice | Group Assignment
   |          |
-4 | Lecture  | React: The Advanced Concepts <span style="color: red">[Frontend]</span>
-4 | Lecture  | Ruby: The Basics <span style="color: blue">[Backend]</span>
-4 | Lecture  | Automation Theory: Selenium  <span style="color: green">[QA]</span>
+4 | Lecture  | React: The Advanced Concepts [Frontend]
+4 | Lecture  | Rails: The Advanced Concepts [Backend]
+4 | Lecture  | Automation: Selenium [QA]
 4 | Practice | Group Assignment
   |          |
-5 | Lecture  | React: Store Management and Redux <span style="color: red">[Frontend]</span>
-5 | Lecture  | Ruby on Rails: The Basics, Relational Databases: SQL <span style="color: blue">[Backend]</span>
-5 | Lecture  | Injections, API testing  <span style="color: green">[QA]</span>
+5 | Lecture  | React: Store Management and Redux [Frontend]
+5 | Lecture  | REST [Backend]
+5 | Lecture  | Injections, API testing [QA]
 5 | Practice | Group Assignment
   |          |
-6 | Lecture  | Test Driven Development <span style="color: brown">[Full-Stack]</span>
-6 | Practice | Pair Programming <span style="color: brown">[Full-Stack]</span>
-6 | Practice | Manual + Automation, Selenium Task  <span style="color: green">[QA]</span>
+6 | Lecture  | Test Driven Development [Full-Stack]
+6 | Practice | Pair Programming [Full-Stack]
+6 | Practice | Manual + Automation, Selenium Task [QA]
   |          |
-7 | Lecture  | Webpack <span style="color: red">[Frontend]</span>
+7 | Lecture  | Clean-up [Full-Stack]
 7 | Demo     | Group Assignment Demo
 
 ---
