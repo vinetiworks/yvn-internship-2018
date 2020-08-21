@@ -16,7 +16,7 @@ _Coding is optional, for some problems algorithm description can be enough._
 2. What is your favorite programming language and why?
 3. What is a linked list?
 **[1 point]**
-4. If you were a SQA engineer in [Amazon](https://www.amazon.com/) what would you test first (assuming authentication functionality is already covered)?
+4. If you were a SQA engineer in [Amazon](https://www.amazon.com/) what's the main functionality you would like to test. 
 **[1 point]**
 5. You have a list of numbers from one to one million and there is __a__ missing number. How would you find the missing number?
 **[1 point]**
@@ -24,17 +24,19 @@ _Coding is optional, for some problems algorithm description can be enough._
 **[1 point]**
 7. How would you remove duplicates from a list?
 **[1 point]**
-8. How would you reverse a string?
-**[1 point]**
-9. How would you compress a string such that 'AAABCCDDDD' becomes 'A3BC2D4'? Only compress the string if it saves space.
+8. How would you reverse a string?  
+**[1 point]**  
+9. How would you compress a string such that 'AAABCCDDDD' becomes 'A3BC2D4'? Only compress the string if it saves space.  
+**[2 points]**  
+10. How would you test that the functionality for 9 is working as expected? Provide a few test scenarios.
+**[1 points]**
+11. Given an array of 0's and 1's, how would you move all of the 0's to the beginning of the array and all of the 1's to the end of the array?
 **[2 points]**
-10. Given an array of 0's and 1's, how would you move all of the 0's to the beginning of the array and all of the 1's to the end of the array?
+12. Given 9 balls all of which weigh the same except for one, what is the minimum of weighings necessary to find the ball weighs more (or less)?
 **[2 points]**
-11. Given 9 balls all of which weigh the same except for one, what is the minimum of weighings necessary to find the ball weighs more (or less)?
-**[2 points]**
-12. How would you solve the N Queens problem? **[Bonus]**
+13. How would you solve the N Queens problem? **[Bonus]**
 **[3 points]**
-13. How would you find the longest palindrome in a string? **[Bonus]**
+14. How would you find the longest palindrome in a string? **[Bonus]**
 **[2 points]**
 
 ## On-site Interview
